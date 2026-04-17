@@ -1,0 +1,12 @@
+# D-CAPTCHA Backend Requirements
+
+# FastAPI framework
+fastapi==0.109.0
+
+# ASGI server
+uvicorn[standard]==0.27.0
+
+# ML dependencies (already in your project)
+# opencv-python
+# ultralytics
+# mediapipe

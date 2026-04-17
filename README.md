@@ -1,6 +1,3 @@
-Here’s a **clean, professional, well-structured README.md** for your project 👇 (you can directly copy-paste into your repo)
-
----
 
 # 📌 D-CAPTCHA System
 
